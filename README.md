@@ -293,7 +293,7 @@ RELATIONSHIPS:
 ### How to Run the Program
 
 ### PREREQUISITES
-1. Before running the program, make sure the Java JDK 17 or later is installed.
+1. Before running the program, make sure the Java JDK 17 is installed.
 2. Go to the GitHub repository.
 3. Click the green Code button and Download ZIP.
 4. Extract the ZIP file to a folder (e.g., C:\Users<YourName><ZIPfile>).
@@ -305,3 +305,62 @@ AFTERWARDS, COMPILE THE PROGRAM:
 
 ### TO NAVIGATE THE PROGRAM:
 **1. Main Menu** 
+
+When you run Main.java, the program will automatically display the main menu.
+```java
+[1] Create Laundry Schedule
+[2] View Available Services
+[3] View All Orders
+[4] Exit
+```
+
+**2. Create Laundry Schedule**
+
+When the user enters 1, the program starts creating a laundry order.
+
+- The program will ask for the users information and preferred pickup and delivery date of order.
+
+**3. View Available Services**
+
+When the user enters 2, the program will display all five laundry services and their corresponding prices per kilogram.
+```java
+Enter your choice: 2
+
+========== AVAILABLE SERVICES ==========
+
+[1] Wash & Fold              PHP 35.00 / kg
+[2] Wash & Iron              PHP 55.00 / kg
+[3] Dry Cleaning             PHP 120.00 / kg
+[4] Comforters & Bedding     PHP 80.00 / kg
+[5] Stain Removal            PHP 95.00 / kg
+```
+
+**4. View All Orders**
+
+When the user enters 3, the program will display all laundry orders created during the current program session, and will automatically display the receipt.
+```java
+========== ALL LAUNDRY ORDERS ==========
+
+Order Number: 1
+
+LAUNDRY SCHEDULE RECEIPT
+Customer Name   : Juan Dela Cruz
+Service Selected: Wash & Fold
+Total Amount Due: PHP 210.00
+
+Total Orders: 1
+```
+If no orders have been created, it displays:
+```java
+No laundry orders found.
+```
+
+**5. Exit**
+
+When the user enters 4, the program terminates.
+```java
+Enter your choice: 4
+
+Thank you for using the Laundry Pickup & Delivery System!
+```
+### Sample Output
