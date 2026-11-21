@@ -365,3 +365,4 @@ Thank you for using the Laundry Pickup & Delivery System!
 ```
 ### Sample Output
 
+![Laundry Logo](laundry-logo.jpg)
