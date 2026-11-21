@@ -291,3 +291,17 @@ RELATIONSHIPS:
 - Created and managed by the Main class
 ```
 ### How to Run the Program
+
+### PREREQUISITES
+1. Before running the program, make sure the Java JDK 17 or later is installed.
+2. Go to the GitHub repository.
+3. Click the green Code button and Download ZIP.
+4. Extract the ZIP file to a folder (e.g., C:\Users<YourName><ZIPfile>).
+
+AFTERWARDS, COMPILE THE PROGRAM:
+5. Open VS Code or another compiler.
+6. Select File, then choose Open Folder and choose the project folder.
+7. Open Main.java and click the Run button or open a New Terminal and type java Main.java.
+
+### TO NAVIGATE THE PROGRAM:
+**1. Main Menu** 
