@@ -365,4 +365,40 @@ Thank you for using the Laundry Pickup & Delivery System!
 ```
 ### Sample Output
 
-![Laundry Logo](laundry-logo.jpg)
+## Sample Output
+
+### 1. **Main Menu**
+
+Displays the available options for the Laundry Pickup & Delivery System.
+
+![Main Menu](screenshots/main-menu.jpeg)
+
+### 2. **Create Laundry Schedule**
+
+Allows customers to enter their information and schedule their laundry pickup and delivery.
+
+![Create Laundry Schedule](screenshots/create-schedule.jpeg)
+
+### 3. **Laundry Schedule Receipt**
+
+Displays the customer's order details, service selected, laundry weight, pickup and delivery dates, and total amount due.
+
+![Laundry Schedule Receipt](screenshots/laundry-receipt.jpeg)
+
+### 4. **Available Laundry Services**
+
+Displays the five laundry services and their corresponding prices per kilogram.
+
+![Available Laundry Services](screenshots/available-services.jpeg)
+
+### 5. **View All Laundry Orders**
+
+Displays all recorded laundry orders during the program's execution.
+
+![View All Laundry Orders](screenshots/all-orders.jpeg)
+
+### 6. **Exit Program**
+
+Displays the thank-you message when the user exits the system.
+
+![Exit Program](screenshots/exit-message.jpeg)
