@@ -377,7 +377,8 @@ Displays the available options for the Laundry Pickup & Delivery System.
 
 Allows customers to enter their information and schedule their laundry pickup and delivery.
 
-![Create Laundry Schedule](screenshots/create-schedule.jpeg)
+!'[<img width="504" height="187" alt="Screenshot 2026-11-10 220906" src="https://github.com/user-attachments/assets/8bb0a4a9-0379-4e3b-8f7b-042d9cea28be" />
+]'
 
 ### 3. **Laundry Schedule Receipt**
 
