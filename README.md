@@ -371,37 +371,35 @@ Thank you for using the Laundry Pickup & Delivery System!
 
 Displays the available options for the Laundry Pickup & Delivery System.
 
-![Main Menu](screenshots/main-menu.jpeg)
+<img width="481" height="215" alt="Screenshot 2026-11-23 153334" src="https://github.com/user-attachments/assets/a63e3742-a780-456a-a8b5-734e8aa3934e" />
 
 ### 2. **Create Laundry Schedule**
 
 Allows customers to enter their information and schedule their laundry pickup and delivery.
 
-!'[<img width="504" height="187" alt="Screenshot 2026-11-10 220906" src="https://github.com/user-attachments/assets/8bb0a4a9-0379-4e3b-8f7b-042d9cea28be" />
-]'
+<img width="522" height="455" alt="Screenshot 2026-11-23 153457" src="https://github.com/user-attachments/assets/dec59e00-b5a8-48eb-8a4e-10695389f936" />
 
 ### 3. **Laundry Schedule Receipt**
 
 Displays the customer's order details, service selected, laundry weight, pickup and delivery dates, and total amount due.
 
-![Laundry Schedule Receipt](screenshots/laundry-receipt.jpeg)
+<img width="462" height="519" alt="Screenshot 2026-11-23 153734" src="https://github.com/user-attachments/assets/ba390190-34b1-4502-ae95-2750fc4780ad" />
 
 ### 4. **Available Laundry Services**
 
 Displays the five laundry services and their corresponding prices per kilogram.
 
-![Available Laundry Services](screenshots/available-services.jpeg)
+<img width="533" height="462" alt="Screenshot 2026-11-23 153545" src="https://github.com/user-attachments/assets/2bfff98a-2145-4529-acd1-b0a12275a776" />
 
 ### 5. **View All Laundry Orders**
 
 Displays all recorded laundry orders during the program's execution.
 
-!'[
-<img width="476" height="519" alt="Screenshot 2026-11-10 220816" src="https://github.com/user-attachments/assets/217ddc90-66da-410c-ae14-69505d7fa57b" />
-]'
+<img width="456" height="145" alt="Screenshot 2026-11-23 153613" src="https://github.com/user-attachments/assets/991c28ee-caf9-48d5-9d60-1b71758c3ccc" />
 
 ### 6. **Exit Program**
 
 Displays the thank-you message when the user exits the system.
 
-![Exit Program](screenshots/exit-message.jpeg)
+<img width="632" height="113" alt="Screenshot 2026-11-23 153743" src="https://github.com/user-attachments/assets/5abff44d-7a9f-433c-bcc5-def4ee87c0de" />
+
