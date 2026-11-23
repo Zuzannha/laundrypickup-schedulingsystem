@@ -396,7 +396,9 @@ Displays the five laundry services and their corresponding prices per kilogram.
 
 Displays all recorded laundry orders during the program's execution.
 
-![View All Laundry Orders](screenshots/all-orders.jpeg)
+!'[
+<img width="476" height="519" alt="Screenshot 2026-11-10 220816" src="https://github.com/user-attachments/assets/217ddc90-66da-410c-ae14-69505d7fa57b" />
+]'
 
 ### 6. **Exit Program**
 
