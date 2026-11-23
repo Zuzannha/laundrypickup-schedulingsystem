@@ -403,3 +403,22 @@ Displays the thank-you message when the user exits the system.
 
 <img width="632" height="113" alt="Screenshot 2026-11-23 153743" src="https://github.com/user-attachments/assets/5abff44d-7a9f-433c-bcc5-def4ee87c0de" />
 
+### Author and Acknowledgement
+
+This program is created by "Cyberclicks" from IT-2110 in compliance with the final project requirement in the course Object-Oriented Programming.
+
+**Lead Programmer:**
+
+Bacaraman, Jawad R.
+
+**Members:**
+
+Marquinez, Zuzannha Jhane O.
+
+Commendador, Kyle Krizel C.
+
+We would likwe to express our sincere appreciation and gratitude to Mr. Dominic Miko Valdez for their continuous guidance, patience, and valuable feedback throughout the entire process of creating this project.  
+
+### Future Enhancements
+
+In the future, the Laundry Pickup & Delivery Scheduling System can be improved by adding more advanced features to provide better convenience and efficiency for both customers and administrators. These improvements may include online payment integration, real-time order tracking, and automated SMS or email notifications to keep customers updated about their laundry orders. A mobile application could also be developed to make booking and managing schedules easier.
